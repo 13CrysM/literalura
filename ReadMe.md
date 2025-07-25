@@ -28,9 +28,9 @@ libro y del autor. El proyecto fue realizado en Java.
 ---
 
 ## 📷 Videos Demostración
-* [Ver video de demostración 1](media/literalura_CJMP_1.mp4)
-* [Ver video de demostración 2](media/literalura_CJMP_2.mp4)
-* [Ver video de demostración 3](media/literalura_CJMP_3.mp4)
+* [Ver video de demostración 1](https://drive.google.com/file/d/1uFGXjml1pnoZBxxkw-9-LII2VZorYTB6/view?usp=drive_link)
+* [Ver video de demostración 2](https://drive.google.com/file/d/16QBLSn99I5Qnh9u2diugmUlOM6PbRVhT/view?usp=drive_link)
+* [Ver video de demostración 3](https://drive.google.com/file/d/1P91wNCdqmWGOLEDxpP8iLHWzcwEBU4iR/view?usp=drive_link)
 
 ---
 
